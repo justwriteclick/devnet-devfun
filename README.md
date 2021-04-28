@@ -1,3 +1,3 @@
 # devnet-devfun
 
-Here's a PR against the main branch.
+Here's a the README file.
